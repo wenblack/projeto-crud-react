@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Crud App",
+  "name": "App de Cadastro de Usuário",
   "icons": [
     {
       "src": "favicon.ico",
